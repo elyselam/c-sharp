@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Sausage/c#/Notes.cs/Notes.cs.csproj",
-      "projectName": "Notes.cs",
-      "projectPath": "/Users/Sausage/c#/Notes.cs/Notes.cs.csproj",
+      "projectUniqueName": "/Users/Sausage/c#/GuessingGame/GuessingGame.csproj",
+      "projectName": "GuessingGame",
+      "projectPath": "/Users/Sausage/c#/GuessingGame/GuessingGame.csproj",
       "packagesPath": "/Users/Sausage/.nuget/packages/",
-      "outputPath": "/Users/Sausage/c#/Notes.cs/obj/",
+      "outputPath": "/Users/Sausage/c#/GuessingGame/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

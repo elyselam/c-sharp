@@ -1,0 +1,10 @@
+/Users/Sausage/c#/Tutorial/bin/Debug/netcoreapp2.0/Tutorial.deps.json
+/Users/Sausage/c#/Tutorial/bin/Debug/netcoreapp2.0/Tutorial.runtimeconfig.json
+/Users/Sausage/c#/Tutorial/bin/Debug/netcoreapp2.0/Tutorial.runtimeconfig.dev.json
+/Users/Sausage/c#/Tutorial/bin/Debug/netcoreapp2.0/Tutorial.dll
+/Users/Sausage/c#/Tutorial/bin/Debug/netcoreapp2.0/Tutorial.pdb
+/Users/Sausage/c#/Tutorial/obj/Debug/netcoreapp2.0/Tutorial.csproj.CoreCompileInputs.cache
+/Users/Sausage/c#/Tutorial/obj/Debug/netcoreapp2.0/Tutorial.AssemblyInfoInputs.cache
+/Users/Sausage/c#/Tutorial/obj/Debug/netcoreapp2.0/Tutorial.AssemblyInfo.cs
+/Users/Sausage/c#/Tutorial/obj/Debug/netcoreapp2.0/Tutorial.dll
+/Users/Sausage/c#/Tutorial/obj/Debug/netcoreapp2.0/Tutorial.pdb
